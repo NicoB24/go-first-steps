@@ -6,3 +6,4 @@ First steps on Go language following the [Golang Dojo](https://www.youtube.com/c
 - Packages and Scope
 - Numbers and Golang Math library
 - String, String Builder and Golang String library
+- Constants
